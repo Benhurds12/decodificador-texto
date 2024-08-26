@@ -2,6 +2,8 @@
 
 utilizando os conhecimentos em HTML, CSS e JavaScript crie um decodificador de texto simples.
 
+![image](https://github.com/user-attachments/assets/894c09d3-492a-4135-b425-3bb024e408c7)
+
 
 ## Criptografia:
 - A letra "e" é convertida para "enter"
