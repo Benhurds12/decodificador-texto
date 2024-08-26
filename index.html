@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="style.css">
+    <title>Decodificador</title>
+</head>
+<body>
+    <header class="cabecalho">
+        <img class="LogoAlura" src="/imagens/logoAlura.png" alt="Logo da alura">
+        <div class= "titulo">
+            <h2> Decodificador de Texto </h2>
+           
+          </div>
+        
+         
+          <section class="main">
+    </header>
+    <main>
+        <section>
+            <textarea class="text-area" cols="41" rows="4">digite seu texto</textarea>
+            
+            <div class="informacao">
+                <h6>Apenas letras minusculas e sem acento</h6>
+            </div>
+            <div class="botoes">
+                <button class="btn-encriptar" onclick="btnEncriptar()"> Criptografar </button>
+                <button class="btn-desencriptar" onclick="btnDesencriptar()"> Descriptografar </button>
+            </div>
+        </section>
+    
+        <section>
+            <textarea class="mensagem" cols="25" rows="10"></textarea>
+            <button class="btn-copiar" onclick="btnCopiar()"> Copiar </button>
+        </section>
+    </main>  
+    <script src="script.js"></script>
+
+    <footer class="rodape">
+        <p classs = "infos"> Desenvolvido por Benhurds</p>
+    </footer>
+</body>
+</html>
