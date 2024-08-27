@@ -8,8 +8,8 @@
 }
 
 .logoAlura{
-    margin-left: 10px;
-    padding-top: 10px;
+    margin-left: 0.625rem;
+    padding-top: 0.625rem;
     width: 2%;
 }
 
@@ -21,20 +21,20 @@
     align-items: baseline;
 }
 .LogoAlura {
-    margin-right: 20px; /* Adiciona 20px de margem à direita do logo */
+    margin-right: 1.25rem; /* Adiciona 20px de margem à direita do logo */
   }
 
 
 main{
     display: flex;
-    margin-bottom: 50px;
-    margin-left: 80px;
+    margin-bottom: 3rem;
+    margin-left: 4rem;
 }
 
 .textArea{
     border: none;
     color: #0A3871;
-    margin-top: 90px;   
+    margin-top: 5.625rem;   
     text-transform: lowercase;
 }
 
@@ -45,14 +45,14 @@ main{
 
 .mensagem{
     background: white;
-    background-image: url(/imagens/High\ quality\ products\ 1\ 1.png);
+    background-image: url(/imagens/criptografia.jpg);
     background-repeat: no-repeat;
     border: none;
-    border-radius: 24px;
+    border-radius: 1.5rem;
     color: #0A3871;
-    margin-left: 98px;
-    margin-top: 20px;
-    padding: 20px;
+    margin-left: 3rem;
+    margin-top: 1rem;
+    padding: 1rem;
     position: fixed;
 }
 .mensagem:focus{
@@ -98,10 +98,11 @@ main{
 }
 
 .rodape{
-    margin-top: 160px;
+    margin-top: 6rem;
     color: black;
     background-color: #0A3871;
-    padding: 1.5rem;
+    padding: 1rem;
     text-align: center;
 
 }
+
