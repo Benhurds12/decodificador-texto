@@ -2,7 +2,11 @@
 
 utilizando os conhecimentos em HTML, CSS e JavaScript crie um decodificador de texto simples.
 
+Versão 1
 ![image](https://github.com/user-attachments/assets/894c09d3-492a-4135-b425-3bb024e408c7)
+
+Versão 2 atualizada
+![image](https://github.com/user-attachments/assets/7f0c6c57-43ab-4b8a-8ace-7f6c00617a5f)
 
 
 ## Criptografia:
@@ -29,3 +33,8 @@ gaitober" => "gato"
 
 ## Requisitos:
 Tem seu funcionamento de maneira correta somente com letras minúsculas sem acentos e caracteres especiais.
+
+## Feito por Ben Hur
+acesse para verificar melhor o meu portifólio:  https://decodificador-texto-ebon.vercel.app/
+
+acesse o meu perfil do github aqui: https://github.com/Benhurds12
